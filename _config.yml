@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+
+title: DaNiKhan
+
+description: DaNiKhan Organization.
+
+exclude:
+  - LICENSE
